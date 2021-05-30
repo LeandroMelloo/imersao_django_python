@@ -1,0 +1,8 @@
+- comando para criar um ambiente virtual em python: python -m venv django_env
+- comando para poder dar acesso para ativação do ambiente virtual: Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+- comando para ativar meu ambiente virtual: .\django_env\Scripts\Activate.ps1
+- comando para instalar a biblioteca django no ambiente virtual: pip install django
+- comando para instalar a biblioteca gunicorn no ambiente virtual: pip install gunicorn
+- comando para listar todos os comandos do django: django-admin --help
+- comando para criar o projeto django: django-admin startproject webdev .
+- comando para inicializar o servidor django: python manage.py runserver
