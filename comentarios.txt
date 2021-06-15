@@ -6,3 +6,4 @@
 - comando para listar todos os comandos do django: django-admin --help
 - comando para criar o projeto django: django-admin startproject webdev .
 - comando para inicializar o servidor django: python manage.py runserver
+- comando parar instalar a biblioteca de teste do django: pip install -d pytest-django
